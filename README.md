@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @priyanshkulshrestha
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Frontend.
-- 💞️ I’m looking to collaborate on fossasia.
+- 👋 Hi, I’m <a href="https://github.com/priyanshkulshrestha" target = "_blank">@priyanshkulshrestha</a>
+- 👀 I’m interested in MERN.
+- 🌱 I’m currently learning Web d.
+<!-- - 💞️ I’m looking to collaborate on fossasia. -->
 - 📫 How to reach me --> priyanshkulshrestha13@gmail.com.
 
 <!---
