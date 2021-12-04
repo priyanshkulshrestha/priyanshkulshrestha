@@ -13,7 +13,7 @@
 
 -   Learning MERN Stack 👨‍💻.
 -   Looking forward to learn Cloud ☁️.
--   Want to contribute to Opensource communite.
+-   Want to contribute to Opensource community.
 
 ## 🔭 Things I could do:
 
@@ -29,7 +29,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </p>
-<br/>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
