@@ -2,7 +2,7 @@
  Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://github.com/priyanshkulshrestha" target="_blank">
  <strong> <samp>Priyansh Kulshrestha</samp> </strong></a> 👨‍💻
 </h1>
-<p align ="center"><samp>Stay Foolish|| Stay Hungery
+<p align ="center"><samp>Stay Foolish || Stay Hungery
 <br>
 -Steve Jobs</samp></p>
 
