@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://github.com/priyanshkulshrestha" target="_blank">
+ Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm <a href="https://github.com/priyanshkulshrestha" target="_blank">
  <strong> <samp>Priyansh Kulshrestha</samp> </strong></a> 👨‍💻
 </h1>
 <p align ="center"><samp>Stay Foolish || Stay Hungery
