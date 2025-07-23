@@ -11,32 +11,33 @@
 
 ## 💼 Things that I'm currently working on:
 
--   Learning MERN Stack 👨‍💻.
+-   Learning ME[A/R]N Stack 👨‍💻.
 -   Looking forward to learn Cloud ☁️.
--   Want to contribute to Opensource community.
+-   Want to contribute to the Open Source community.
 
 ## 🔭 Things I could do:
 
--   Code in C, C++, Python, JavaScript.
--   Technologies I use React, NodeJS.
+-   Code in JavaScript, Python, C, and C++.
+-   Technologies I use Angular, NodeJS, and React.
 -   My IDE Visual Studio Code.
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/sass.png"/> -->
+  <img src="https://img.icons8.com/fluency/48/000000/angularjs.png" />
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </p>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -56,7 +57,7 @@
 
 ## Connect with me [here](https://github.com/priyanshkulshrestha)
 
-I love connecting with different people so if you want to say hi 💬 priyanshkulshrestha13@gmail.com, I'll be happy to have a chat with you!
+I love connecting with different people, so if you want to say hi 💬 priyanshkulshrestha13@gmail.com, I'll be happy to have a chat with you!
 
 Always ready to colabrate with different people and their weird ideas and stuffs.
 
